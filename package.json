@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "9/30/17",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensojka/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensojka/burger/issues"
+  },
+  "homepage": "https://github.com/bensojka/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.14.1"
+  }
+}
